@@ -1,1 +1,1 @@
-# advent-of-code-2019
+Solutions for 2019's problems at https://adventofcode.com/
